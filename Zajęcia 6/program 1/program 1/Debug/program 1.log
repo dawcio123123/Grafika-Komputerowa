@@ -1,0 +1,21 @@
+﻿  program 1.cpp
+c:\users\dawci\desktop\grafika\zajęcia 6\program 1\program 1\program 1.cpp(64): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\dawci\desktop\grafika\zajęcia 6\program 1\program 1\program 1.cpp(66): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\dawci\desktop\grafika\zajęcia 6\program 1\program 1\program 1.cpp(68): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\dawci\desktop\grafika\zajęcia 6\program 1\program 1\program 1.cpp(70): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\dawci\desktop\grafika\zajęcia 6\program 1\program 1\program 1.cpp(72): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\dawci\desktop\grafika\zajęcia 6\program 1\program 1\program 1.cpp(74): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\dawci\desktop\grafika\zajęcia 6\program 1\program 1\program 1.cpp(76): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\dawci\desktop\grafika\zajęcia 6\program 1\program 1\program 1.cpp(78): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\dawci\desktop\grafika\zajęcia 6\program 1\program 1\program 1.cpp(80): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\dawci\desktop\grafika\zajęcia 6\program 1\program 1\program 1.cpp(87): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\dawci\desktop\grafika\zajęcia 6\program 1\program 1\program 1.cpp(89): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\dawci\desktop\grafika\zajęcia 6\program 1\program 1\program 1.cpp(91): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\dawci\desktop\grafika\zajęcia 6\program 1\program 1\program 1.cpp(93): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\dawci\desktop\grafika\zajęcia 6\program 1\program 1\program 1.cpp(176): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+c:\users\dawci\desktop\grafika\zajęcia 6\program 1\program 1\program 1.cpp(260): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\dawci\desktop\grafika\zajęcia 6\program 1\program 1\program 1.cpp(265): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\dawci\desktop\grafika\zajęcia 6\program 1\program 1\program 1.cpp(326): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\dawci\desktop\grafika\zajęcia 6\program 1\program 1\program 1.cpp(328): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+  program 1.vcxproj -> C:\Users\dawci\Desktop\Grafika\Zajęcia 6\program 1\Debug\program 1.exe
+  program 1.vcxproj -> C:\Users\dawci\Desktop\Grafika\Zajęcia 6\program 1\Debug\program 1.pdb (Full PDB)
