@@ -1,8 +1,6 @@
 ﻿// Program 4.cpp : Defines the entry point for the console application.
 //
 
-#include "stdafx.h"
-
 
 #ifdef _MSC_VER
 #define _CRT_SECURE_NO_WARNINGS
