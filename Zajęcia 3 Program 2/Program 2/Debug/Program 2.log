@@ -1,0 +1,9 @@
+﻿  Program 2.cpp
+c:\users\dawci\desktop\grafika\zajęcia 3\program 2\program 2\program 2.cpp(463): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\dawci\desktop\grafika\zajęcia 3\program 2\program 2\program 2.cpp(468): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\dawci\desktop\grafika\zajęcia 3\program 2\program 2\program 2.cpp(520): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\dawci\desktop\grafika\zajęcia 3\program 2\program 2\program 2.cpp(522): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\dawci\desktop\grafika\zajęcia 3\program 2\program 2\program 2.cpp(524): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\dawci\desktop\grafika\zajęcia 3\program 2\program 2\program 2.cpp(526): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Program 2.vcxproj -> C:\Users\dawci\Desktop\Grafika\Zajęcia 3\Program 2\Debug\Program 2.exe
+  Program 2.vcxproj -> C:\Users\dawci\Desktop\Grafika\Zajęcia 3\Program 2\Debug\Program 2.pdb (Full PDB)
